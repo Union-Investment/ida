@@ -27,10 +27,10 @@ To activate this project's virtualenv, run following command:
 pipenv shell
 ```
 
-Then install the project dependencies with:
+Then install the whole project dependencies with:
 
 ```python
-pipenv install
+pipenv install --dev
 ```
 
 After successful installation the API can be started locally with the command:
