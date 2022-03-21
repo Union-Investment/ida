@@ -18,7 +18,7 @@ Technically, [Python 3](https://www.python.org/) and [FastAPI](https://fastapi.t
 
 Before you start, you must:
 
-- Install [Python 3.6.x.](https://www.python.org/downloads/)
+- Install [Python 3.7.x.](https://www.python.org/downloads/)
 - Install [Pipenv](https://pipenv.pypa.io/en/latest/#install-pipenv-today)
 
 To activate this project's virtualenv, run following command:
