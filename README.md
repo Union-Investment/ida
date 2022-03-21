@@ -18,7 +18,7 @@ Technically, [Python 3](https://www.python.org/) and [FastAPI](https://fastapi.t
 
 Before you start, you must:
 
-- Install [Python 3.7.x.](https://www.python.org/downloads/)
+- Install [Python 3.10.x.](https://www.python.org/downloads/)
 - Install [Pipenv](https://pipenv.pypa.io/en/latest/#install-pipenv-today)
 
 To activate this project's virtualenv, run following command:
@@ -27,10 +27,10 @@ To activate this project's virtualenv, run following command:
 pipenv shell
 ```
 
-Then install the project dependencies with:
+Then install the whole project dependencies with:
 
 ```python
-pipenv install
+pipenv install --dev
 ```
 
 After successful installation the API can be started locally with the command:
@@ -75,4 +75,4 @@ pytest
 ```
 
 ---
-***Copyright © 2022 Union IT-Services GmbH. All rights reserved.***
+***Copyright © 2023 Union IT-Services GmbH. All rights reserved.***
